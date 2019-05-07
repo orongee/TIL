@@ -30,7 +30,9 @@ void power(){
 ```
 
 #### static
-
+ 프로그램 시작시에 메모리에 로드함.
+ main메소드는 반드시 실행해야 하기 때문에 메인메소드에 반드시 포함되는거임.
+ 
 
 #### main 메소드 
 
@@ -41,6 +43,6 @@ public static void main(String[] args){}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODQ0Njk3LDE4Njc4MDYyMDEsNjI4Nj
-cyNDE4LC0yNDM3MTE3MjZdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMSw2Mj
+g2NzI0MTgsLTI0MzcxMTcyNl19
 -->
