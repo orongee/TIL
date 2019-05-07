@@ -63,14 +63,14 @@ public static void main(String[] args){}
 class First{
 }
 
-클래스 변수이름 = new 클래스();
+First f1rst = new First();
 // 클래스의 인스턴스화
 ```
 생성된 클래스를 main 메소드에서 호출시켜 사용하면 클래스참조변수.메소드or 클래스참조변수.변수이름 등으로 사용 가능함.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjA4Mzc0NiwxOTMxMjcwOTc4LDE0OT
+eyJoaXN0b3J5IjpbLTU1NTcyNDc3NiwxOTMxMjcwOTc4LDE0OT
 czOTg5NjgsLTE3OTUyNTYzMTQsMjAyODYwMjIsLTIxNDAyNjAy
 OTYsLTE1MDE2ODU1MTYsLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMS
 w2Mjg2NzI0MTgsLTI0MzcxMTcyNl19
