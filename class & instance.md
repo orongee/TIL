@@ -86,16 +86,21 @@ public class Number{
 	void addNum(int n){
 		num = num+n;
 	}
-	
+	int getNum(){
+		return num;
+	}
 }
 
-
-
-
 //InstanceMain.java
+package classtest;
 
+public class InstanceMain {
+	public static void main(String[] args){
+		
+	}
+}
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzIzNDAyOSwzODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbNDQxNTUwOTEzLDM4MTE4MzcyNF19
 -->
