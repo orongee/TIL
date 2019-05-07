@@ -46,9 +46,12 @@ public static void main(String[] args){}
 
 ## 객체지향언어
 
+클래스와 인스턴스
+
+인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQyMzA0OCwtMTUwMTY4NTUxNiwtMT
-QzODYzNTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzEx
-NzI2XX0=
+eyJoaXN0b3J5IjpbLTIxNDAyNjAyOTYsLTE1MDE2ODU1MTYsLT
+E0Mzg2MzU0NTAsMTg2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0Mzcx
+MTcyNl19
 -->
