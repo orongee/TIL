@@ -96,11 +96,12 @@ package classtest;
 
 public class InstanceMain {
 	public static void main(String[] args){
-		
+		Number nInst = new Number();
+		// 인스턴스 생성
 	}
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNTUwOTEzLDM4MTE4MzcyNF19
+eyJoaXN0b3J5IjpbMTkyNjI0Njk1MCwzODExODM3MjRdfQ==
 -->
