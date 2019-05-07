@@ -29,22 +29,18 @@ void power(){
 }
 ```
 
+#### static
 
 
+#### main 메소드 
 
+메소드의 호출을 하는 메인 메소드.
 
+```java
+public static void main(String[] args){}
+```
 
-
-
-
-
-- **main 메소드** 
-	메소드의 호출을 하는 메인 메소드.
-	```java
-	public static void main(String[] args){}
-	
-	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjMwNzY2MCwxODY3ODA2MjAxLDYyOD
-Y3MjQxOCwtMjQzNzExNzI2XX0=
+eyJoaXN0b3J5IjpbODg3ODQ0Njk3LDE4Njc4MDYyMDEsNjI4Nj
+cyNDE4LC0yNDM3MTE3MjZdfQ==
 -->
