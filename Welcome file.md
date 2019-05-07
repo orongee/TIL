@@ -3,9 +3,11 @@
 ## 메소드
 
 특정 기능의 처리를 해주는 코드들의 집합임. 
-기본형으
+기본적으로는 데이터를 입력 받아 처리하고 결과값을 돌려줌. (입력값과 결과값이 없을 수도 있음.)
+
+
 
 - **main** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MjI1ODMyXX0=
+eyJoaXN0b3J5IjpbMTk1MzQwMzQwNF19
 -->
