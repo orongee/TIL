@@ -84,7 +84,7 @@ final int BAR_NUM = 20;
 
 - int
 
-가장 많이 사용하는 정수형 데이터 타입으로 4byte의 값을 가짐.
+가장 많이 사용하는 정수형 데이터 타입으로 4byte의 값을 가짐. 연산할 때 기본적으로 `int`형으로 바꿔 연산한다. 기본형. 
 ```java
 int x = 59;
 ```
@@ -95,6 +95,7 @@ int보다 더 큰 범위를 표현하고 싶을 때 사용한다. `long`은 8byt
 ```java
 long big = 12345678L;
 // long에 값을 적을 때 뒤에 소문자 l 혹은 대문자 L을 적어야 함.
+// 접미사 L이 없으면 정수의 기본형인 int 타입으로 인식함.
 ```
 2. 실수형
 
@@ -114,7 +115,7 @@ char aa = 'a';
 ```
 5. 논리형(boolean)
 
-논리형은 리터럴 값이 `true` 혹은 `false` 딱 두 개다. 크기는 1byte.
+논리형은 리터럴 값이 `true` 혹은 `false` 딱 두 개다. 크기는 1byte. 기본값은 `false`
 ```java
 boolean isFun;
 isFun = true; // or false
@@ -369,5 +370,5 @@ do{
 } while(조건)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQxOTY4MjVdfQ==
+eyJoaXN0b3J5IjpbMTc0NjQxNjEzMl19
 -->
