@@ -123,6 +123,8 @@ boolean isFun;
 isFun = true; // or false
 ```
 
+**참조형 타입**
+기본형을 제외한 나머지 타입들은 모두 참조형. 값 자체가 저장되는 것이 아니고 값이 저장된 주소값을 저장하는 것으로 데이터를 참조만 한다.
 
 **형변환**
 
@@ -373,5 +375,5 @@ do{
 } while(조건)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzY1NDcwNV19
+eyJoaXN0b3J5IjpbLTEzODI1MDA4MjddfQ==
 -->
