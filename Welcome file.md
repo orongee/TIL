@@ -23,11 +23,13 @@
 값을 반환하지 않을 경우 리턴타입 대신`void` 쓴다.
 
 ```java
-
-
+void power(){
+	power = !power;
+}
+```
 
 
 - **main 메소드** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA3Mzk0NjldfQ==
+eyJoaXN0b3J5IjpbLTI0MzcxMTcyNl19
 -->
