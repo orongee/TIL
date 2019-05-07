@@ -15,9 +15,15 @@
 }
  
 ```
+#### return
+- 값을 반환
+- 메소드를 종료시킴
+
+#### void
+
 
 
 - **main 메소드** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MzI3MjUwXX0=
+eyJoaXN0b3J5IjpbLTEyNjExMjYxNzldfQ==
 -->
