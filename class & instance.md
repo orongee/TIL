@@ -102,12 +102,18 @@ public class InstanceMain {
 		// 인스턴스를 생성만 하고 호출하지 않은 상태
 		System.out.println("인스턴스의 메소드 호출 전 : num의 값  = "+nInst.num);
 		// 결과는 0
+		System.out.println("인스턴스의 메소드 호출 전 : num의 값  = "+nInst.getNum());
+		// 결과는 0
+
+		static void simpleMethod(Number number){
+			number.addNum(10);
+		}
 		
 	}
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTM0NTExMSwxOTI2MjQ2OTUwLDM4MT
+eyJoaXN0b3J5IjpbMjAzNjM5NzE4MSwxOTI2MjQ2OTUwLDM4MT
 E4MzcyNF19
 -->
