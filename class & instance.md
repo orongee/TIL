@@ -78,10 +78,14 @@ ex) 인스턴스 생성과 변수와 메소드 참조 예시
 
 ```java
 // Number.java
-// 변수와 
+// 변수와 메소드만 정의하는 클래스.
 package classtest;
 public class Number{
 	int num; // 인스턴스 초기화. 자동으로 0이 대입됨.
+	
+	void addNum(int n){
+		num = num+n;
+	}
 	
 }
 
@@ -93,5 +97,5 @@ public class Number{
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODk0Njg1NiwzODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbMTY5MzIzNDAyOSwzODExODM3MjRdfQ==
 -->
