@@ -74,10 +74,18 @@ First f1rst = new First();
 - 인스턴스 변수
 - 인스턴스 메소드
 
+ex) 인스턴스 
+```java
+// Number.java
 
 
 
 
+
+//InstanceMain.java
+
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTQ1ODIxMiwzODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ0MDg0NDA2NywzODExODM3MjRdfQ==
 -->
