@@ -48,7 +48,12 @@ public static void main(String[] args){}
 
 클래스와 인스턴스
 #### 클래스 
-객체를
+객체를 정의해놓은 상태. 객체를 생성하기 위해 사용됨
+
+#### 객체 인스턴스
+실제로 생성해놓은 클래스. 
+
+- 속성(변수)과 기능을 가지고 있음
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
 
@@ -61,8 +66,8 @@ public static void main(String[] args){}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYxNTA5MTQsLTE3OTUyNTYzMTQsMj
-AyODYwMjIsLTIxNDAyNjAyOTYsLTE1MDE2ODU1MTYsLTE0Mzg2
-MzU0NTAsMTg2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0MzcxMTcyNl
-19
+eyJoaXN0b3J5IjpbMTk2MzM1MjI1MiwtMTc5NTI1NjMxNCwyMD
+I4NjAyMiwtMjE0MDI2MDI5NiwtMTUwMTY4NTUxNiwtMTQzODYz
+NTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzExNzI2XX
+0=
 -->
