@@ -64,14 +64,15 @@ class First{
 }
 
 First f1rst = new First();
+// Class의이름 변수이름 = new Class이름();
 // 클래스의 인스턴스화
 ```
 생성된 클래스를 main 메소드에서 호출시켜 사용하면 클래스참조변수.메소드or 클래스참조변수.변수이름 등으로 사용 가능함.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTcyNDc3NiwxOTMxMjcwOTc4LDE0OT
-czOTg5NjgsLTE3OTUyNTYzMTQsMjAyODYwMjIsLTIxNDAyNjAy
-OTYsLTE1MDE2ODU1MTYsLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMS
-w2Mjg2NzI0MTgsLTI0MzcxMTcyNl19
+eyJoaXN0b3J5IjpbMjA3OTQyODAwMSwtNTU1NzI0Nzc2LDE5Mz
+EyNzA5NzgsMTQ5NzM5ODk2OCwtMTc5NTI1NjMxNCwyMDI4NjAy
+MiwtMjE0MDI2MDI5NiwtMTUwMTY4NTUxNiwtMTQzODYzNTQ1MC
+wxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzExNzI2XX0=
 -->
