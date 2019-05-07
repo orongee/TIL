@@ -101,11 +101,13 @@ long big = 12345678L;
 
 실수를 표현하는 데이터 타입. `float`와 `double` 이 있음.
 
-`float`는 4byte, `double`은 8byte 값을 가지며, double이 더 큰 범위임!
+`float`는 4byte, `double`은 8byte 값을 가지며, double이 더 큰 범위임! 
 ```java
 float a = 1.7538f;
 // float 에 값을 대입할 때는 실수 뒤에 소문자 f 혹은 대문자 F를 붙여야 함.
 double b = 32.2;
+// 실수형의 기본은 double형이다.
+// double은 정밀도를 따지기 때문에 float 타입과 비교했을 경우 double형이 더 크다고 나옴.
 ```
 4. 문자형
 
@@ -120,6 +122,7 @@ char aa = 'a';
 boolean isFun;
 isFun = true; // or false
 ```
+
 
 **형변환**
 
@@ -370,5 +373,5 @@ do{
 } while(조건)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjQxNjEzMl19
+eyJoaXN0b3J5IjpbMTQ5NzY1NDcwNV19
 -->
