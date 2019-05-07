@@ -96,12 +96,18 @@ package classtest;
 
 public class InstanceMain {
 	public static void main(String[] args){
-		Number nInst = new Number();
 		// 인스턴스 생성
+		Number nInst = new Number();
+		
+		// 인스턴스를 생성만 하고 호출하지 않은 상태
+		System.out.println("인스턴스의 메소드 호출 전 : num의 값  = "+nInst.num);
+		// 결과는 0
+		
 	}
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjI0Njk1MCwzODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbLTcyMTM0NTExMSwxOTI2MjQ2OTUwLDM4MT
+E4MzcyNF19
 -->
