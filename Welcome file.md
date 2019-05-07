@@ -53,7 +53,9 @@ public static void main(String[] args){}
 #### 객체 인스턴스
 실제로 생성해놓은 클래스. 속성과 기능의 집합.
 
-- 속성(변수)과 기능(메소드)을 가지고 있음 -> **속성과 기능 : 멤버의 요소**
+- 속성(변수)과 기능(메소드)을 가지고 있음 -> 
+- 속성과 기능은 객체 멤버의 구성요소임. 속성 = 멤버변수
+- 
 - 
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
@@ -67,8 +69,8 @@ public static void main(String[] args){}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1ODc3MjQ5LC0xNzk1MjU2MzE0LDIwMj
-g2MDIyLC0yMTQwMjYwMjk2LC0xNTAxNjg1NTE2LC0xNDM4NjM1
-NDUwLDE4Njc4MDYyMDEsNjI4NjcyNDE4LC0yNDM3MTE3MjZdfQ
-==
+eyJoaXN0b3J5IjpbMTQ5NzM5ODk2OCwtMTc5NTI1NjMxNCwyMD
+I4NjAyMiwtMjE0MDI2MDI5NiwtMTUwMTY4NTUxNiwtMTQzODYz
+NTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzExNzI2XX
+0=
 -->
