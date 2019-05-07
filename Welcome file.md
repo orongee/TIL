@@ -50,8 +50,10 @@ public static void main(String[] args){}
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
 
+클래스를 생성한 후 메모리에 올려놓는 작업을 인스턴스화 / 
+생성된 클래스를 main 메소드에서 호출시켜 사용하면 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAyNjAyOTYsLTE1MDE2ODU1MTYsLT
-E0Mzg2MzU0NTAsMTg2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0Mzcx
-MTcyNl19
+eyJoaXN0b3J5IjpbMjAyODYwMjIsLTIxNDAyNjAyOTYsLTE1MD
+E2ODU1MTYsLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMSw2Mjg2NzI0
+MTgsLTI0MzcxMTcyNl19
 -->
