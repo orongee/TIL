@@ -46,7 +46,6 @@ public static void main(String[] args){}
 
 ## 객체지향언어
 
-
 #### 클래스 
 객체를 정의해놓은 상태. 객체를 생성하기 위해 사용됨
 
@@ -69,8 +68,8 @@ public static void main(String[] args){}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIxMTIxNDQsMTQ5NzM5ODk2OCwtMT
-c5NTI1NjMxNCwyMDI4NjAyMiwtMjE0MDI2MDI5NiwtMTUwMTY4
-NTUxNiwtMTQzODYzNTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOC
-wtMjQzNzExNzI2XX0=
+eyJoaXN0b3J5IjpbMTkzMTI3MDk3OCwxNDk3Mzk4OTY4LC0xNz
+k1MjU2MzE0LDIwMjg2MDIyLC0yMTQwMjYwMjk2LC0xNTAxNjg1
+NTE2LC0xNDM4NjM1NDUwLDE4Njc4MDYyMDEsNjI4NjcyNDE4LC
+0yNDM3MTE3MjZdfQ==
 -->
