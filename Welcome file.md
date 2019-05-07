@@ -52,15 +52,17 @@ public static void main(String[] args){}
 #### 객체 인스턴스
 실제로 생성해놓은 클래스. 속성과 기능의 집합.
 
-- 속성(변수)과 기능(메소드)을 가지고 있음 -> 
-- 속성과 기능은 객체 멤버의 구성요소임. 속성 = 멤버변수
-- 
-- 
+- 속성(변수)과 기능(메소드)로 구성.
+- 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소트 라고도 함.
+ 
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
 
 클래스를 생성한 후 메모리에 올려놓는 작업을 인스턴스화 / 
 ```java
+class First{
+}
+
 클래스 변수이름 = new 클래스();
 // 클래스의 인스턴스화
 ```
@@ -68,8 +70,8 @@ public static void main(String[] args){}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTI3MDk3OCwxNDk3Mzk4OTY4LC0xNz
-k1MjU2MzE0LDIwMjg2MDIyLC0yMTQwMjYwMjk2LC0xNTAxNjg1
-NTE2LC0xNDM4NjM1NDUwLDE4Njc4MDYyMDEsNjI4NjcyNDE4LC
-0yNDM3MTE3MjZdfQ==
+eyJoaXN0b3J5IjpbMTUzNjA4Mzc0NiwxOTMxMjcwOTc4LDE0OT
+czOTg5NjgsLTE3OTUyNTYzMTQsMjAyODYwMjIsLTIxNDAyNjAy
+OTYsLTE1MDE2ODU1MTYsLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMS
+w2Mjg2NzI0MTgsLTI0MzcxMTcyNl19
 -->
