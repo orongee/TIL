@@ -105,8 +105,12 @@ public class InstanceMain {
 		System.out.println("인스턴스의 메소드 호출 전 : num의 값  = "+nInst.getNum());
 		// 결과는 0
 
+		// nInst 참조변수를 
 		simpleMethod(nInst);
-		System.out.println("인스턴스의 addNum 메소드를 실행 ㅎ : num의 값  = "+nInst.getNum());
+		
+		System.out.println("인스턴스의 addNum 메소드를 실행 후 : num의 값  = "+nInst.getNum());
+
+		//
 		static void simpleMethod(Number number){
 			number.addNum(10);
 		}
@@ -116,6 +120,6 @@ public class InstanceMain {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODcxMzUwMSwyMDM2Mzk3MTgxLDE5Mj
+eyJoaXN0b3J5IjpbLTMyNTY1NTA1NSwyMDM2Mzk3MTgxLDE5Mj
 YyNDY5NTAsMzgxMTgzNzI0XX0=
 -->
