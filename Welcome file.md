@@ -10,7 +10,8 @@
 // 입력값으로 받는 매겨변수를 정의
 리턴타입 메소드명 ((데이터타입 변수명1,데이터타입 변수명2,...))
 {
-	// 코드
+	// 코드 ~~
+	// return 값;
 }
  
 ```
@@ -18,5 +19,5 @@
 
 - **main 메소드** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDc1NzkyMV19
+eyJoaXN0b3J5IjpbOTc1MzI3MjUwXX0=
 -->
