@@ -53,7 +53,7 @@ public static void main(String[] args){}
 실제로 생성해놓은 클래스. 속성과 기능의 집합.
 
 - 속성(변수)과 기능(메소드)로 구성.
-- 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소트 라고도 함.
+- 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
  
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
@@ -65,15 +65,20 @@ class First{
 
 First f1rst = new First();
 // Class의이름 변수이름 = new Class이름();
-// 변수이름에 new를 통해 생성한 인스턴스의 주소값을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
+// 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
 // 클래스의 인스턴스화
 ```
 생성된 클래스를 main 메소드에서 호출시켜 사용하면 클래스참조변수.메소드or 클래스참조변수.변수이름 등으로 사용 가능함.
 
 
+- 인스턴스 변수
+- 인스턴스 메소드
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNzgzMzEyLC01NTU3MjQ3NzYsMTkzMT
-I3MDk3OCwxNDk3Mzk4OTY4LC0xNzk1MjU2MzE0LDIwMjg2MDIy
-LC0yMTQwMjYwMjk2LC0xNTAxNjg1NTE2LC0xNDM4NjM1NDUwLD
-E4Njc4MDYyMDEsNjI4NjcyNDE4LC0yNDM3MTE3MjZdfQ==
+eyJoaXN0b3J5IjpbMzUwMDA2OTUxLDg1Mjc4MzMxMiwtNTU1Nz
+I0Nzc2LDE5MzEyNzA5NzgsMTQ5NzM5ODk2OCwtMTc5NTI1NjMx
+NCwyMDI4NjAyMiwtMjE0MDI2MDI5NiwtMTUwMTY4NTUxNiwtMT
+QzODYzNTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzEx
+NzI2XX0=
 -->
