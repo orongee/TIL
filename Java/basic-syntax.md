@@ -147,6 +147,23 @@ long x2 = 5;
 int y2 = (int) x2;
 
 // 이걸 강제 형변환이라고 함.
+
+class ByteOverflow {
+	public static void main(String[] args){
+		byte b = 0;
+		int = 0;
+
+		for(int x = 0; x<= 270; x++){
+		System.out.print(b++);
+		System.out.print('\t');
+		System.out.print(i++);
+		}
+	}
+}
+
+// b와 i의 값은 동일하게 나오지 않음. 
+// byte는 int보다 표현범위가 더 적기 때문에 127이상의 값을 표현할 수 없음.
+// 때문에 127이상으로 넘어가면 음수값으로 표시가 됨.
 ```
 
 
@@ -375,5 +392,5 @@ do{
 } while(조건)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI1MDA4MjddfQ==
+eyJoaXN0b3J5IjpbMzQxOTk4NjEyXX0=
 -->
