@@ -105,12 +105,14 @@ public class InstanceMain {
 		System.out.println("인스턴스의 메소드 호출 전 : num의 값  = "+nInst.getNum());
 		// 결과는 0
 
-		// nInst 참조변수를 
+		// nInst 참조변수를 전달받아 addNum()이라는 메소드를 호출시킴.
+		// 메소드 선언부에서 10이라는 값을 전달했으므로 현재 num은 10.
 		simpleMethod(nInst);
 		
 		System.out.println("인스턴스의 addNum 메소드를 실행 후 : num의 값  = "+nInst.getNum());
+		// 결과는 10
 
-		//
+		// 
 		static void simpleMethod(Number number){
 			number.addNum(10);
 		}
@@ -120,6 +122,6 @@ public class InstanceMain {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTY1NTA1NSwyMDM2Mzk3MTgxLDE5Mj
-YyNDY5NTAsMzgxMTgzNzI0XX0=
+eyJoaXN0b3J5IjpbODIyNzI1NDk5LDIwMzYzOTcxODEsMTkyNj
+I0Njk1MCwzODExODM3MjRdfQ==
 -->
