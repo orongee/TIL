@@ -39,7 +39,12 @@ void power(){
 
 
 - **main 메소드** 
+	메소드의 호출을 하는 메인 메소드.
+	```java
+	public static void main(String[] args){}
+	
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0Mz
-cxMTcyNl19
+eyJoaXN0b3J5IjpbMTQyNjMwNzY2MCwxODY3ODA2MjAxLDYyOD
+Y3MjQxOCwtMjQzNzExNzI2XX0=
 -->
