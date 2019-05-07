@@ -20,6 +20,7 @@
 - 값을 반환
 - 메소드를 종료시킴
 
+
 #### void
 값을 반환하지 않을 경우 리턴타입 대신`void` 쓴다.
 
@@ -43,6 +44,6 @@ public static void main(String[] args){}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg2MzU0NTAsMTg2NzgwNjIwMSw2Mj
-g2NzI0MTgsLTI0MzcxMTcyNl19
+eyJoaXN0b3J5IjpbLTE1MDE2ODU1MTYsLTE0Mzg2MzU0NTAsMT
+g2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0MzcxMTcyNl19
 -->
