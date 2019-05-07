@@ -43,7 +43,12 @@ void power(){
 public static void main(String[] args){}
 ```
 
+
+## 객체지향언어
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE2ODU1MTYsLTE0Mzg2MzU0NTAsMT
-g2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0MzcxMTcyNl19
+eyJoaXN0b3J5IjpbMTAyMzQyMzA0OCwtMTUwMTY4NTUxNiwtMT
+QzODYzNTQ1MCwxODY3ODA2MjAxLDYyODY3MjQxOCwtMjQzNzEx
+NzI2XX0=
 -->
