@@ -112,16 +112,14 @@ public class InstanceMain {
 		System.out.println("인스턴스의 addNum 메소드를 실행 후 : num의 값  = "+nInst.getNum());
 		// 결과는 10
 
-		// 
 		static void simpleMethod(Number number){
 			number.addNum(10);
-		}
-		
+		}		
 	}
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNzI1NDk5LDIwMzYzOTcxODEsMTkyNj
-I0Njk1MCwzODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbMTAwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5Mj
+YyNDY5NTAsMzgxMTgzNzI0XX0=
 -->
