@@ -9,6 +9,7 @@
 // 메소드명도 소문자로 하는 것이 관례임
 // 입력값으로 받는 매겨변수를 정의
 리턴타입 메소드명 ((데이터타입 변수명1,데이터타입 변수명2,...))
+// 매개변수는 지역변수. 입력값을 받기 위해 메소드 내에서 변수를 지정해줌
 {
 	// 코드 ~~
 	// return 값;
@@ -39,5 +40,6 @@ void power(){
 
 - **main 메소드** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NjcyNDE4LC0yNDM3MTE3MjZdfQ==
+eyJoaXN0b3J5IjpbMTg2NzgwNjIwMSw2Mjg2NzI0MTgsLTI0Mz
+cxMTcyNl19
 -->
