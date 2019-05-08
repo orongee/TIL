@@ -31,7 +31,8 @@ void power(){
 ```
 
 #### static
-스코프가 프로그램 실행 시부터 종료 시까지 유지됨. 
+스코프가 프로그램 실행 시부터 종료 시까지 유지됨. 가상머신이 로드할 때 가장 처음으로 읽고 선언함.
+
  
 
 #### main 메소드 
@@ -135,7 +136,7 @@ public class InstanceMain {
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQzNjY2NjksLTEyOTQ2OTI1MTYsLT
+eyJoaXN0b3J5IjpbLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLT
 E3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5
 MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4Nj
 AwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2
