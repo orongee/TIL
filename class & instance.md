@@ -168,17 +168,17 @@ Card c = new Card();
 
 #### this
 
-`this`는 나 자신을 가르킴.
-`this()` 다른 생성자를 찾아 호출함.
+- `this` : 참조변수는 나 자신을 가르킴.
+- `this()` : 같은 클래스의 다른 생성자를 찾아 호출함. 매개변수의 타입이 같은 애를 찾아감.
 ```java
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNTcyOTcxLDE2NDUyOTg5NjAsMTk0Mz
-c3NDE0NSw3NjE5MzI3NDAsMTYxMDY2Nzc1OCwyMDg2MDE3MzY1
-LC0xNDA5MDUyMjMsLTIxMzAzNDcyNiwxNzI4MTcwNjY2LC0xMD
-c4ODU1MDQ4LC0xMjk0NjkyNTE2LC0xNzkyODg3Mjg3LC0xMzgz
-MDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5Nj
-E3NCwtODYxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYw
-MjQ4MDkzXX0=
+eyJoaXN0b3J5IjpbLTg3NDAwMDIwMiw2NTM1NzI5NzEsMTY0NT
+I5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNjY3NzU4
+LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3Mj
+gxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4
+ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NT
+A3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3
+NzU3OTM5NV19
 -->
