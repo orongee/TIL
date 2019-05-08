@@ -50,7 +50,7 @@ public static void main(String[] args){}
 객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨.
 
 #### 객체 인스턴스
-실제로 **생성**해놓은 클래스. 속성(변수)과 기능(메소드)의 집합. 
+실제로 **생성**해놓은 클래스.  
 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
 하나의 클래스를 통해 여러 개의 객체를 만들 수 있고 객체 하나를 여러개의 변수에 참조시킬 수도 있음.
 
@@ -60,7 +60,8 @@ class First{
 
 First f1rst = new First();
 // Class의이름 변수이름 = new Class이름();
-// 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
+// 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 
+// 참조변수, Class 변수는 4byte의 메모리를 저장해둠.
 // 이걸 클래스의 인스턴스화라고함.
 ```
 생성된 클래스를 `main` 메소드에서 호출시켜 사용하면 `클래스참조변수.메소드()`or `클래스참조변수.변수` 등으로 사용 가능함.
@@ -138,7 +139,7 @@ public class InstanceMain {
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzgxMjc0OCwtMjEzMDM0NzI2LDE3Mj
+eyJoaXN0b3J5IjpbLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3Mj
 gxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4
 ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NT
 A3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3
