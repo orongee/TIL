@@ -136,11 +136,19 @@ public class InstanceMain {
 			--channel;
 		}
 	}
-	Tv t1 = new Tv();
-	Tv t2 = new Tv();
-	t2 = t1;
-	// t2는 t1의 주소값으로 대치됨.
-	// t2가 원래 가르키고 있던 주소값이 가지고 있던 인스턴스 변수는 사라짐.
+	
+	class TvTest{
+		Tv tv1 = new Tv();\
+		
+		tv1.channel = 7;
+		tv1.channelDown();
+		
+		// Tv.channel = 7 //은 접근 불가. 인스턴스 변수는 참조변수를 통해 접근해야하
+		Tv tv2 = new Tv();
+		t2 = t1;
+		// t2는 t1의 주소값으로 대치됨.
+		// t2가 원래 가르키고 있던 주소값이 가지고 있던 인스턴스 변수는 사라짐.
+	}
 	```
 
 - 지역변수
@@ -191,7 +199,7 @@ class Car {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM0ODk1MDQsNjI2NzAzMDQxLDEwOT
+eyJoaXN0b3J5IjpbLTEyMzI5Mzk2NTEsNjI2NzAzMDQxLDEwOT
 EzNTk2MjYsMzMwNzUxNDYsLTg3NDAwMDIwMiw2NTM1NzI5NzEs
 MTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNj
 Y3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2
