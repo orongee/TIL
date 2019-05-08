@@ -121,15 +121,21 @@ public class InstanceMain {
 - 인스턴스 변수
 	인스턴스 생성 시에 선언되는 변수. `참조변수.인스턴스변수명`를 통해서 접근한다.
 	참조변수가 없으면 자동으로 제거됨.
+	```java
+	Tv t1 = new Tv();
+	Tv t2 = new Tv();
+	t2 = t1;
+	// t2는 t1의 주소값으로 대치됨.
+	// t
 	```
 
 - 지역변수
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzOTg5NjEwLC0xNzkyODg3Mjg3LC0xMz
-gzMDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5
-NjE3NCwtODYxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMj
-YwMjQ4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2
-OTUwLDM4MTE4MzcyNF19
+eyJoaXN0b3J5IjpbLTQ0OTE5NzYyNSwtMTc5Mjg4NzI4NywtMT
+M4MzAxMjI2MywtNTIwOTU4NDQ3LDEyMjkxNzQ1MDcsLTEzNzM0
+OTYxNzQsLTg2MTY0NDk1Niw3MTQzMzg2MDAsOTc3NTc5Mzk1LD
+I2MDI0ODA5MywxMDAzODE2MDU1LDIwMzYzOTcxODEsMTkyNjI0
+Njk1MCwzODExODM3MjRdfQ==
 -->
