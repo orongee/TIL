@@ -114,11 +114,12 @@ public class InstanceMain {
 #### 변수 & 메소드
 
 
-- 클래스벼
+- 클래스변수 
+`static`키워드와 같이 사용하면 클래스 변수가 됨. 인스턴스의 생성 없이도 변수가 선언되며
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NjkzNDgyLC0xMzgzMDEyMjYzLC01Mj
-A5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5NjE3NCwtODYxNjQ0
-OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYwMjQ4MDkzLDEwMD
-M4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUwLDM4MTE4Mzcy
-NF19
+eyJoaXN0b3J5IjpbLTExNzI4NzUyNTIsLTEzODMwMTIyNjMsLT
+UyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2
+NDQ5NTYsNzE0MzM4NjAwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMT
+AwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5MjYyNDY5NTAsMzgxMTgz
+NzI0XX0=
 -->
