@@ -149,8 +149,16 @@ public class InstanceMain {
 
 생성자는 반환형 타입이 없음. tlfgoddml ahrwjr. 
 
+생성자 이름  = 클래스 이름
+```java
+class Card{ }
+Card c = new Card();
+
+// Card() 는 생성자. 생성자 이름은 클래스로 지정해야 함.
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjg0MDgzOCwxNjEwNjY3NzU4LDIwOD
+eyJoaXN0b3J5IjpbMTcwNTI0NDc3MSwxNjEwNjY3NzU4LDIwOD
 YwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3MjgxNzA2
 NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4ODcyOD
 csLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NTA3LC0x
