@@ -31,8 +31,7 @@ void power(){
 ```
 
 #### static
- 프로그램 시작시에 메모리에 로드함.
- main메소드는 반드시 실행해야 하기 때문에 메인메소드에 반드시 포함되는거임.
+스코프가 프로그램 실행 시부터 종료 시까지 유지됨. 
  
 
 #### main 메소드 
@@ -136,9 +135,9 @@ public class InstanceMain {
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ2OTI1MTYsLTE3OTI4ODcyODcsLT
-EzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMzcz
-NDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3NzU3OTM5NS
-wyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5MjYy
-NDY5NTAsMzgxMTgzNzI0XX0=
+eyJoaXN0b3J5IjpbLTEyNjQzNjY2NjksLTEyOTQ2OTI1MTYsLT
+E3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5
+MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4Nj
+AwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2
+Mzk3MTgxLDE5MjYyNDY5NTAsMzgxMTgzNzI0XX0=
 -->
