@@ -143,7 +143,8 @@ public class InstanceMain {
 		tv1.channel = 7;
 		tv1.channelDown();
 		
-		// Tv.channel = 7 //은 접근 불가. 인스턴스 변수는 참조변수를 통해 접근해야하
+		// Tv.channel = 7 //은 접근 불가. 인스턴스 변수는 참조변수를 통해 접근해야함.
+		
 		Tv tv2 = new Tv();
 		t2 = t1;
 		// t2는 t1의 주소값으로 대치됨.
@@ -199,11 +200,11 @@ class Car {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI5Mzk2NTEsNjI2NzAzMDQxLDEwOT
-EzNTk2MjYsMzMwNzUxNDYsLTg3NDAwMDIwMiw2NTM1NzI5NzEs
-MTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNj
-Y3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2
-LDE3MjgxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLT
-E3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5
-MTc0NTA3XX0=
+eyJoaXN0b3J5IjpbMjU3NDgwMTUxLDYyNjcwMzA0MSwxMDkxMz
+U5NjI2LDMzMDc1MTQ2LC04NzQwMDAyMDIsNjUzNTcyOTcxLDE2
+NDUyOTg5NjAsMTk0Mzc3NDE0NSw3NjE5MzI3NDAsMTYxMDY2Nz
+c1OCwyMDg2MDE3MzY1LC0xNDA5MDUyMjMsLTIxMzAzNDcyNiwx
+NzI4MTcwNjY2LC0xMDc4ODU1MDQ4LC0xMjk0NjkyNTE2LC0xNz
+kyODg3Mjg3LC0xMzgzMDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3
+NDUwN119
 -->
