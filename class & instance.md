@@ -53,7 +53,6 @@ public static void main(String[] args){}
 실제로 **생성**해놓은 클래스. 속성(변수)과 기능(메소드)의 집합. 
 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
 
-
 ```java
 class First{
 }
@@ -61,7 +60,7 @@ class First{
 First f1rst = new First();
 // Class의이름 변수이름 = new Class이름();
 // 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
-// 클래스의 인스턴스화
+// 이걸 클래스의 인스턴스화라고함.
 ```
 생성된 클래스를 `main` 메소드에서 호출시켜 사용하면 `클래스참조변수.메소드`or `클래스참조변수.변수이름` 등으로 사용 가능함.
 
@@ -117,7 +116,7 @@ public class InstanceMain {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MTIyOTMsOTc3NTc5Mzk1LDI2MDI0OD
-A5MywxMDAzODE2MDU1LDIwMzYzOTcxODEsMTkyNjI0Njk1MCwz
-ODExODM3MjRdfQ==
+eyJoaXN0b3J5IjpbMTE2NjI3MzI0MSw5Nzc1NzkzOTUsMjYwMj
+Q4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUw
+LDM4MTE4MzcyNF19
 -->
