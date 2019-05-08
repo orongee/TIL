@@ -50,14 +50,10 @@ public static void main(String[] args){}
 객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨
 
 #### 객체 인스턴스
-실제로 **생성**해놓은 클래스. 속성과 기능의 집합. 
+실제로 **생성**해놓은 클래스. 속성(변수)과 기능(메소드)의 집합. 
+객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
 
-- 속성(변수)과 기능(메소드)로 구성.
-- 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
- 
 
-인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
-클래스를 생성한 후 메모리에 올려놓는 작업을 인스턴스화 / 
 ```java
 class First{
 }
@@ -121,7 +117,7 @@ public class InstanceMain {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NTc5Mzk1LDI2MDI0ODA5MywxMDAzOD
-E2MDU1LDIwMzYzOTcxODEsMTkyNjI0Njk1MCwzODExODM3MjRd
-fQ==
+eyJoaXN0b3J5IjpbMjg0MTIyOTMsOTc3NTc5Mzk1LDI2MDI0OD
+A5MywxMDAzODE2MDU1LDIwMzYzOTcxODEsMTkyNjI0Njk1MCwz
+ODExODM3MjRdfQ==
 -->
