@@ -168,17 +168,23 @@ Card c = new Card();
 
 #### this
 
-- `this` : 참조변수는 나 자신을 가르킴.
+- `this` : 참조변수는 현재 인스턴스 자신을 가리킴.
+```java
+class Car {
+	String
+
+```
+
 - `this()` : 같은 클래스의 다른 생성자를 찾아 호출함. 매개변수의 타입이 같은 애를 찾아감.
 ```java
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDAwMDIwMiw2NTM1NzI5NzEsMTY0NT
-I5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNjY3NzU4
-LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3Mj
-gxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4
-ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NT
-A3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3
-NzU3OTM5NV19
+eyJoaXN0b3J5IjpbMzMwNzUxNDYsLTg3NDAwMDIwMiw2NTM1Nz
+I5NzEsMTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwx
+NjEwNjY3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMD
+M0NzI2LDE3MjgxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1
+MTYsLTE3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0Ny
+wxMjI5MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0
+MzM4NjAwXX0=
 -->
