@@ -50,7 +50,7 @@ public static void main(String[] args){}
 객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨
 
 #### 객체 인스턴스
-실제로 **생성**해놓은 클래스. 속성과 기능의 집합.
+실제로 **생성**해놓은 클래스. 속성과 기능의 집합. 
 
 - 속성(변수)과 기능(메소드)로 구성.
 - 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
@@ -121,6 +121,7 @@ public class InstanceMain {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMjQ4MDkzLDEwMDM4MTYwNTUsMjAzNj
-M5NzE4MSwxOTI2MjQ2OTUwLDM4MTE4MzcyNF19
+eyJoaXN0b3J5IjpbOTc3NTc5Mzk1LDI2MDI0ODA5MywxMDAzOD
+E2MDU1LDIwMzYzOTcxODEsMTkyNjI0Njk1MCwzODExODM3MjRd
+fQ==
 -->
