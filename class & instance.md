@@ -120,14 +120,16 @@ public class InstanceMain {
 
 - 인스턴스 변수
 	인스턴스 생성 시에 선언되는 변수. `참조변수.인스턴스변수명`를 통해서 접근한다.
+	참조변수가 없으면 자동으로 제거됨.
+	```
 
 - 지역변수
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI4ODcyODcsLTEzODMwMTIyNjMsLT
-UyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2
-NDQ5NTYsNzE0MzM4NjAwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMT
-AwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5MjYyNDY5NTAsMzgxMTgz
-NzI0XX0=
+eyJoaXN0b3J5IjpbMjkzOTg5NjEwLC0xNzkyODg3Mjg3LC0xMz
+gzMDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5
+NjE3NCwtODYxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMj
+YwMjQ4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2
+OTUwLDM4MTE4MzcyNF19
 -->
