@@ -145,9 +145,10 @@ public class InstanceMain {
 
 #### 생성자
 
-인스턴스 생성될 때마다 호출되는 인스턴스 초기화 메소드? 메소드와 유사함. 변수들을 초기화할 떄 사용한다. 
+인스턴스 생성될 때마다 호출되는 인스턴스 초기화 메소드? 메소드와 유사함. 변수들을 초기화할 때 사용한다. 
 
 생성자는 반환형 타입이 없음. tlfgoddml ahrwjr. 
+생성자는 모든 클래스에 반드시 있어야함. 생성자를 만들지 않더라도 인스턴스 생성될 때 자동으로 생성됨.
 
 생성자 이름  = 클래스 이름
 ```java
@@ -161,11 +162,11 @@ Card c = new Card();
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk2NDE3NjMsMTYxMDY2Nzc1OCwyMD
-g2MDE3MzY1LC0xNDA5MDUyMjMsLTIxMzAzNDcyNiwxNzI4MTcw
-NjY2LC0xMDc4ODU1MDQ4LC0xMjk0NjkyNTE2LC0xNzkyODg3Mj
-g3LC0xMzgzMDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3NDUwNywt
-MTM3MzQ5NjE3NCwtODYxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1Nz
-kzOTUsMjYwMjQ4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwx
-OTI2MjQ2OTUwXX0=
+eyJoaXN0b3J5IjpbNzYxOTMyNzQwLDE2MTA2Njc3NTgsMjA4Nj
+AxNzM2NSwtMTQwOTA1MjIzLC0yMTMwMzQ3MjYsMTcyODE3MDY2
+NiwtMTA3ODg1NTA0OCwtMTI5NDY5MjUxNiwtMTc5Mjg4NzI4Ny
+wtMTM4MzAxMjI2MywtNTIwOTU4NDQ3LDEyMjkxNzQ1MDcsLTEz
+NzM0OTYxNzQsLTg2MTY0NDk1Niw3MTQzMzg2MDAsOTc3NTc5Mz
+k1LDI2MDI0ODA5MywxMDAzODE2MDU1LDIwMzYzOTcxODEsMTky
+NjI0Njk1MF19
 -->
