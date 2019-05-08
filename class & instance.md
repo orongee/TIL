@@ -62,13 +62,9 @@ First f1rst = new First();
 // 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
 // 이걸 클래스의 인스턴스화라고함.
 ```
-생성된 클래스를 `main` 메소드에서 호출시켜 사용하면 `클래스참조변수.메소드`or `클래스참조변수.변수이름` 등으로 사용 가능함.
+생성된 클래스를 `main` 메소드에서 호출시켜 사용하면 `클래스참조변수.메소드()`or `클래스참조변수.변수` 등으로 사용 가능함.
 
-
-- 인스턴스 변수
-- 인스턴스 메소드
-
-ex) 인스턴스 생성과 변수와 메소드 참조 예시
+*ex) 인스턴스 생성과 변수와 메소드 참조 예시*
 
 ```java
 // Number.java
@@ -116,7 +112,7 @@ public class InstanceMain {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjI3MzI0MSw5Nzc1NzkzOTUsMjYwMj
-Q4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUw
-LDM4MTE4MzcyNF19
+eyJoaXN0b3J5IjpbNzE0MzM4NjAwLDk3NzU3OTM5NSwyNjAyND
+gwOTMsMTAwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5MjYyNDY5NTAs
+MzgxMTgzNzI0XX0=
 -->
