@@ -44,20 +44,19 @@ public static void main(String[] args){}
 ```
 
 
-## 객체지향언어
+## 객체 지향
 
 #### 클래스 
-객체를 정의해놓은 상태. 객체를 생성하기 위해 사용됨
+객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨
 
 #### 객체 인스턴스
-실제로 생성해놓은 클래스. 속성과 기능의 집합.
+실제로 **생성**해놓은 클래스. 속성과 기능의 집합.
 
 - 속성(변수)과 기능(메소드)로 구성.
 - 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
  
 
 인스턴스는 메모리에 올려놓고 사용하는 거임. 클래스인 객체를 생성하면 메모리에 추가가 되는 거겠지?
-
 클래스를 생성한 후 메모리에 올려놓는 작업을 인스턴스화 / 
 ```java
 class First{
@@ -68,7 +67,7 @@ First f1rst = new First();
 // 변수이름에 new를 통해 생성한 인스턴스의 주소값(객체 자신 ㄴㄴ)을 저장하는 거임. 참조변수. Class 변수는 4byte의 메모리를 저장해둠.
 // 클래스의 인스턴스화
 ```
-생성된 클래스를 main 메소드에서 호출시켜 사용하면 클래스참조변수.메소드or 클래스참조변수.변수이름 등으로 사용 가능함.
+생성된 클래스를 `main` 메소드에서 호출시켜 사용하면 `클래스참조변수.메소드`or `클래스참조변수.변수이름` 등으로 사용 가능함.
 
 
 - 인스턴스 변수
@@ -122,6 +121,6 @@ public class InstanceMain {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTc4NzUsMTAwMzgxNjA1NSwyMDM2Mz
-k3MTgxLDE5MjYyNDY5NTAsMzgxMTgzNzI0XX0=
+eyJoaXN0b3J5IjpbMjYwMjQ4MDkzLDEwMDM4MTYwNTUsMjAzNj
+M5NzE4MSwxOTI2MjQ2OTUwLDM4MTE4MzcyNF19
 -->
