@@ -46,10 +46,11 @@ public static void main(String[] args){}
 
 ## 객체 지향
 
-#### 클래스 
-객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨.
+### 클래스 
+객체를 **정의**만 해놓은 상태. 객체를 생성하기 위해 사용됨.
+변수를 선언, 메소드를 정의한다.
 
-#### 객체 인스턴스
+### 객체 인스턴스
 실제로 **생성**해놓은 클래스.  
 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
 하나의 클래스를 통해 여러 개의 객체를 만들 수 있고 객체 하나를 여러개의 변수에 참조시킬 수도 있음.
@@ -183,11 +184,11 @@ class Car {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTM1OTYyNiwzMzA3NTE0NiwtODc0MD
-AwMjAyLDY1MzU3Mjk3MSwxNjQ1Mjk4OTYwLDE5NDM3NzQxNDUs
-NzYxOTMyNzQwLDE2MTA2Njc3NTgsMjA4NjAxNzM2NSwtMTQwOT
-A1MjIzLC0yMTMwMzQ3MjYsMTcyODE3MDY2NiwtMTA3ODg1NTA0
-OCwtMTI5NDY5MjUxNiwtMTc5Mjg4NzI4NywtMTM4MzAxMjI2My
-wtNTIwOTU4NDQ3LDEyMjkxNzQ1MDcsLTEzNzM0OTYxNzQsLTg2
-MTY0NDk1Nl19
+eyJoaXN0b3J5IjpbNjI2NzAzMDQxLDEwOTEzNTk2MjYsMzMwNz
+UxNDYsLTg3NDAwMDIwMiw2NTM1NzI5NzEsMTY0NTI5ODk2MCwx
+OTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNjY3NzU4LDIwODYwMT
+czNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3MjgxNzA2NjYs
+LTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4ODcyODcsLT
+EzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMzcz
+NDk2MTc0XX0=
 -->
