@@ -47,7 +47,7 @@ public static void main(String[] args){}
 ## 객체 지향
 
 #### 클래스 
-객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨
+객체를 **정의**해놓은 상태. 객체를 생성하기 위해 사용됨.
 
 #### 객체 인스턴스
 실제로 **생성**해놓은 클래스. 속성(변수)과 기능(메소드)의 집합. 
@@ -114,8 +114,8 @@ public class InstanceMain {
 **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTE3NDUwNywtMTM3MzQ5NjE3NCwtOD
-YxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYwMjQ4MDkz
-LDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUwLDM4MT
-E4MzcyNF19
+eyJoaXN0b3J5IjpbLTUyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMz
+czNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3NzU3OTM5
+NSwyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5Mj
+YyNDY5NTAsMzgxMTgzNzI0XX0=
 -->
