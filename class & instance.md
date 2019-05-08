@@ -115,7 +115,8 @@ public class InstanceMain {
 
 
 - 클래스변수 
-	`static`키워드와 같이 사용하면 클래스 변수가 됨. 인스턴스의 생성 없이도 프로그램이 실행하면 바로 변수가 선언된다. 프로그램 종료가 될 때까지 유지됨.
+	`static`키워드와 같이 사용하면 클래스 변수가 됨. 인스턴스의 생성 없이도 프로그램이 실행하면 바로 변수가 선언된다. 프로그램 종료가 될 때까지 유지됨. 변수 이름이 중복되면 안됨.
+	`public` 으로 선언될 경우 어디서든 누구나 접근 가능함.
 	= 공유변수
 
 - 인스턴스 변수
@@ -136,9 +137,10 @@ public class InstanceMain {
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLT
-E3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5
-MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4Nj
-AwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2
-Mzk3MTgxLDE5MjYyNDY5NTAsMzgxMTgzNzI0XX0=
+eyJoaXN0b3J5IjpbMjUwNTg1MDAyLC0xMDc4ODU1MDQ4LC0xMj
+k0NjkyNTE2LC0xNzkyODg3Mjg3LC0xMzgzMDEyMjYzLC01MjA5
+NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5NjE3NCwtODYxNjQ0OT
+U2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYwMjQ4MDkzLDEwMDM4
+MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUwLDM4MTE4MzcyNF
+19
 -->
