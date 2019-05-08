@@ -52,7 +52,7 @@ public static void main(String[] args){}
 #### 객체 인스턴스
 실제로 **생성**해놓은 클래스. 속성(변수)과 기능(메소드)의 집합. 
 객체의 속성은 = 멤버 변수, 기능은 = 멤버 메소드 라고도 함.
-하나의 클래스를 통해 여러 개의 객체를 만들 수 있고 객체 하나를 여러개의 참조변수에 
+하나의 클래스를 통해 여러 개의 객체를 만들 수 있고 객체 하나를 여러개의 변수에 참조시킬 수도 있음.
 
 ```java
 class First{
@@ -111,11 +111,11 @@ public class InstanceMain {
 
 ```
 
-
+**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NzM1ODg5LC0xMzczNDk2MTc0LC04Nj
-E2NDQ5NTYsNzE0MzM4NjAwLDk3NzU3OTM5NSwyNjAyNDgwOTMs
-MTAwMzgxNjA1NSwyMDM2Mzk3MTgxLDE5MjYyNDY5NTAsMzgxMT
-gzNzI0XX0=
+eyJoaXN0b3J5IjpbMTIyOTE3NDUwNywtMTM3MzQ5NjE3NCwtOD
+YxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYwMjQ4MDkz
+LDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OTUwLDM4MT
+E4MzcyNF19
 -->
