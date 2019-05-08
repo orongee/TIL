@@ -128,6 +128,13 @@ public class InstanceMain {
 	```java
 	class Tv{
 		int channel;
+
+		void channelUp(){
+			++channel;
+		}
+		void channelDown(){
+			--channel;
+		}
 	}
 	Tv t1 = new Tv();
 	Tv t2 = new Tv();
@@ -184,11 +191,11 @@ class Car {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NzAzMDQxLDEwOTEzNTk2MjYsMzMwNz
-UxNDYsLTg3NDAwMDIwMiw2NTM1NzI5NzEsMTY0NTI5ODk2MCwx
-OTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNjY3NzU4LDIwODYwMT
-czNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3MjgxNzA2NjYs
-LTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4ODcyODcsLT
-EzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NTA3LC0xMzcz
-NDk2MTc0XX0=
+eyJoaXN0b3J5IjpbLTEzMDM0ODk1MDQsNjI2NzAzMDQxLDEwOT
+EzNTk2MjYsMzMwNzUxNDYsLTg3NDAwMDIwMiw2NTM1NzI5NzEs
+MTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNj
+Y3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2
+LDE3MjgxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLT
+E3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5
+MTc0NTA3XX0=
 -->
