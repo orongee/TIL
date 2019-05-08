@@ -1,18 +1,4 @@
- 자바 시작하기sdf
- 'sdf
- sdf
- 
- 니아러니아러ㅣ나ㅓ라ㅣ너리ㅏ너리ㅏㅓ니ㅏ러니ㅏ러니ㅏ러ㅣ나러ㅣ나ㅓ리나ㅓ리ㅏ너라ㅣ
-# 이름
-## 이름
-###### 이름
-
-- 어나ㅣ러
-1. 2.
-2
-3
-4
-
+# 자바 시작하기
 
 ## 메소드
 
@@ -161,7 +147,7 @@ public class InstanceMain {
 
 인스턴스 생성될 때마다 호출되는 인스턴스 초기화 메소드? 메소드와 유사함. 변수들을 초기화할 때 사용한다. 
 
-생성자는 반환형 타입이 없음. tlfgoddml ahrwjr. 
+생성자는 반환형 타입이 없음. 실행의 목적. 
 생성자는 모든 클래스에 반드시 있어야함. 생성자를 만들지 않더라도 인스턴스 생성될 때 자동으로 생성됨.
 
 생성자 이름  = 클래스 이름
@@ -178,11 +164,11 @@ Card c = new Card();
 생성자 내에서는 `final`상수를 쓰더라도 값 변경이 가능하다. 생성자 내에서만 허용한다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM3NDU5ODMsMTk0Mzc3NDE0NSw3Nj
-E5MzI3NDAsMTYxMDY2Nzc1OCwyMDg2MDE3MzY1LC0xNDA5MDUy
-MjMsLTIxMzAzNDcyNiwxNzI4MTcwNjY2LC0xMDc4ODU1MDQ4LC
-0xMjk0NjkyNTE2LC0xNzkyODg3Mjg3LC0xMzgzMDEyMjYzLC01
-MjA5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5NjE3NCwtODYxNj
-Q0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYwMjQ4MDkzLDEw
-MDM4MTYwNTVdfQ==
+eyJoaXN0b3J5IjpbMTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MT
+kzMjc0MCwxNjEwNjY3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIy
+MywtMjEzMDM0NzI2LDE3MjgxNzA2NjYsLTEwNzg4NTUwNDgsLT
+EyOTQ2OTI1MTYsLTE3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUy
+MDk1ODQ0NywxMjI5MTc0NTA3LC0xMzczNDk2MTc0LC04NjE2ND
+Q5NTYsNzE0MzM4NjAwLDk3NzU3OTM5NSwyNjAyNDgwOTMsMTAw
+MzgxNjA1NV19
 -->
