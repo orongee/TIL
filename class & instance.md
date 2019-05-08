@@ -1,7 +1,20 @@
  자바 시작하기sdf
  'sdf
  sdf
- # 
+ 
+ 니아러니아러ㅣ나ㅓ라ㅣ너리ㅏ너리ㅏㅓ니ㅏ러니ㅏ러니ㅏ러ㅣ나러ㅣ나ㅓ리나ㅓ리ㅏ너라ㅣ
+# 이름
+## 이름
+###### 이름
+
+- 어나ㅣ러
+1. 2.
+2.
+3.
+2. ㅇㄴ러니ㅏ러
+----------------
+
+
 
 ## 메소드
 
@@ -167,7 +180,7 @@ Card c = new Card();
 생성자 내에서는 `final`상수를 쓰더라도 값 변경이 가능하다. 생성자 내에서만 허용한다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzMzNTk3MCw3NjE5MzI3NDAsMTYxMD
+eyJoaXN0b3J5IjpbMTk0Mzc3NDE0NSw3NjE5MzI3NDAsMTYxMD
 Y2Nzc1OCwyMDg2MDE3MzY1LC0xNDA5MDUyMjMsLTIxMzAzNDcy
 NiwxNzI4MTcwNjY2LC0xMDc4ODU1MDQ4LC0xMjk0NjkyNTE2LC
 0xNzkyODg3Mjg3LC0xMzgzMDEyMjYzLC01MjA5NTg0NDcsMTIy
