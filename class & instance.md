@@ -166,9 +166,12 @@ Card c = new Card();
 
 
 
-##
+#### this
+
+`this`는 나 자신을 가르킴.
+`this()` 다른 생성자를 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM3MTc3ODQsMTY0NTI5ODk2MCwxOT
+eyJoaXN0b3J5IjpbLTE5NTgyMDQ4MDcsMTY0NTI5ODk2MCwxOT
 QzNzc0MTQ1LDc2MTkzMjc0MCwxNjEwNjY3NzU4LDIwODYwMTcz
 NjUsLTE0MDkwNTIyMywtMjEzMDM0NzI2LDE3MjgxNzA2NjYsLT
 EwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4ODcyODcsLTEz
