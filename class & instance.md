@@ -121,7 +121,7 @@ public class InstanceMain {
 	
 
 - 인스턴스 변수
-	인스턴스 생성 시에 선언되는 변수. `참조변수.인스턴스변수명`를 통해서 접근한다.
+	인스턴스 생성 시에 선언되는 변수. `참조변수.인스턴스변수명`를 통해서 접근한다. 
 	참조변수가 없으면 자동으로 제거됨.
 	```java
 	class Tv{
@@ -138,10 +138,10 @@ public class InstanceMain {
 	메소드 내에서 선언된 변수로 블럭 문 안에서만 유지됨. 메소드가 호출되지 않으면 변수도 선언되지 않음.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAzNDcyNiwxNzI4MTcwNjY2LC0xMD
-c4ODU1MDQ4LC0xMjk0NjkyNTE2LC0xNzkyODg3Mjg3LC0xMzgz
-MDEyMjYzLC01MjA5NTg0NDcsMTIyOTE3NDUwNywtMTM3MzQ5Nj
-E3NCwtODYxNjQ0OTU2LDcxNDMzODYwMCw5Nzc1NzkzOTUsMjYw
-MjQ4MDkzLDEwMDM4MTYwNTUsMjAzNjM5NzE4MSwxOTI2MjQ2OT
-UwLDM4MTE4MzcyNF19
+eyJoaXN0b3J5IjpbMTY4MzgxNjIwMiwtMjEzMDM0NzI2LDE3Mj
+gxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOTQ2OTI1MTYsLTE3OTI4
+ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1ODQ0NywxMjI5MTc0NT
+A3LC0xMzczNDk2MTc0LC04NjE2NDQ5NTYsNzE0MzM4NjAwLDk3
+NzU3OTM5NSwyNjAyNDgwOTMsMTAwMzgxNjA1NSwyMDM2Mzk3MT
+gxLDE5MjYyNDY5NTAsMzgxMTgzNzI0XX0=
 -->
