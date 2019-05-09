@@ -190,9 +190,11 @@ Card c = new Card();
 class Car {
 	String color;
 	}
-	Car(){
-		color
-
+	Car(String c){
+		// 인스턴스 변수인 color값에 c를 대입.
+		this.color = c;
+	}
+	
 ```
 
 - `this()` : 같은 클래스의 다른 생성자를 찾아 호출함. 매개변수의 타입이 같은 애를 찾아감.
@@ -203,11 +205,11 @@ class Car {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjk5NDg0OSwyNTc0ODAxNTEsNjI2Nz
-AzMDQxLDEwOTEzNTk2MjYsMzMwNzUxNDYsLTg3NDAwMDIwMiw2
-NTM1NzI5NzEsMTY0NTI5ODk2MCwxOTQzNzc0MTQ1LDc2MTkzMj
-c0MCwxNjEwNjY3NzU4LDIwODYwMTczNjUsLTE0MDkwNTIyMywt
-MjEzMDM0NzI2LDE3MjgxNzA2NjYsLTEwNzg4NTUwNDgsLTEyOT
-Q2OTI1MTYsLTE3OTI4ODcyODcsLTEzODMwMTIyNjMsLTUyMDk1
-ODQ0N119
+eyJoaXN0b3J5IjpbLTg2MDMxNjg2OCwxNTYyOTk0ODQ5LDI1Nz
+Q4MDE1MSw2MjY3MDMwNDEsMTA5MTM1OTYyNiwzMzA3NTE0Niwt
+ODc0MDAwMjAyLDY1MzU3Mjk3MSwxNjQ1Mjk4OTYwLDE5NDM3Nz
+QxNDUsNzYxOTMyNzQwLDE2MTA2Njc3NTgsMjA4NjAxNzM2NSwt
+MTQwOTA1MjIzLC0yMTMwMzQ3MjYsMTcyODE3MDY2NiwtMTA3OD
+g1NTA0OCwtMTI5NDY5MjUxNiwtMTc5Mjg4NzI4NywtMTM4MzAx
+MjI2M119
 -->
